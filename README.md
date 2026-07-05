@@ -28,17 +28,13 @@ The documentation is intended for:
 ```
 Enterprise-Cybersecurity-Implementation
 
-├── FortiGate/
-│   └── Enterprise Firewall Configuration Guide
+├──  Enterprise Firewall Configuration Guide
 │
-├── OpenVAS/
-│   └── Enterprise Vulnerability Assessment Guide
+├──  Enterprise Vulnerability Assessment Guide
 │
-├── Wazuh/
-│   └── Enterprise SIEM Deployment Guide
+├──  Enterprise SIEM Deployment Guide
 │
-└── USB-Access-Control/
-    └── Linux Endpoint USB Security Guide
+└──  Linux Endpoint USB Security Guide
 ```
 
 ---
